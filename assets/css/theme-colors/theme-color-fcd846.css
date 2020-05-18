@@ -1,0 +1,69 @@
+
+/* ------ 
+
+	Style color: #fcd846; 
+	
+------ */
+
+
+/* -- All pages -- */
+
+.primary-button{background-color:#fcd846;}
+.primary-button:hover{background-color:#E8C639;}
+
+.menu > li > a:hover,.submenu-active,#header-nav .menu-item > a.active{color:#fcd846!important;}
+.menu .sub-menu li a:hover{background-color:#fcd846;}
+
+.social-item span{color:#fcd846;}
+
+.page-header{background-color:#fcd846;}
+
+.sidebar-widget h3{color:#fcd846;}
+
+.posts-widget li a:hover h4,.list-widget li a:hover{color:#fcd846;}
+
+.post-navigation{background-color:#fcd846;}
+
+
+/* -- One page main -- */
+
+.section-title h2{color:#fcd846;}
+
+.featured-slide-content h2{color:#fcd846;}
+
+.about-icon,.service-icon,.single-detail-icon{color:#fcd846;border-color:#fcd846;}
+.about-icon:hover,.service-icon:hover,.single-detail-icon:hover{background-color:#fcd846;}
+
+.large-content-right h2{color:#fcd846;}
+
+.team-section{background-color:#fcd846;}
+
+#portfolio-item-filter a.active{color:#fcd846;}
+.portfolio-hover-content h3,.portfolio-hover-icon{color:#fcd846;}
+
+.testimonial-slide .company{color:#fcd846;}
+
+.contact-input:focus,.contact-text:focus{border-color:#fcd846;}
+
+.view-map-section{background-color:#fcd846;}
+
+
+/* -- Single news -- */
+
+.single-news-title h2{color:#fcd846;}
+
+
+
+/* -- all slide shows -- */
+
+.carousel .owl-dot.active{background-color:#fcd846;}
+
+
+/* --- mobile + tablet styles --- */
+@media (max-width: 991px) {
+
+		/* -- nav drop down button -- */
+		
+		#mobile-nav-icon span {background-color:#fcd846;}
+
+}
